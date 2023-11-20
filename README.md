@@ -1,6 +1,3 @@
-## Tom Raes
-29 years old and living in the Netherlands.
-
 - 💼 Job: Application / Data manager at Barbas Bellfires
 - 🛠 Skills: SQL, Excel, Power BI, Python
 - 🔎 Learning: Git env, exploring the possibilities of AI 
