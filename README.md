@@ -1,7 +1,10 @@
-### Hi there 👋
-## Hi There
-# Hi
+## Tom Raes
+29 years old and living in the Netherlands.
 
+- 💼 Job: Application / Data manager at Barbas Bellfires
+- 🛠 Skills: SQL, Excel, Power BI, Python
+- 🔎 Learning: Git env, exploring the possibilities of AI 
+- 🏀 Hobby's: Basketbal, Gaming, Playing Piano
 <!--
 **TsOeMar/TsOeMar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
