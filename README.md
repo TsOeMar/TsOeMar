@@ -28,7 +28,7 @@ I'm Tom Raes, someone who is deeply passionate about data analysis and BI soluti
 ## 🌱 Education
 - Bachelor Industrial Engineering & Management (2018) - Focus on process analysis and efficiency.
 - DataCamp Data Analyst/Scientist Course (2021/2022) - Expanded expertise in data analysis and science (Python/SQL).
-- Udemy Microsoft Power BI Course (2023) - Instructor in an in-house Power BI training program.
+- Microsoft Power BI Course (2023) - Instructor in an in-house Power BI training program.
 - Currently working on "learning by doing" by creating a Github data portfolio with projects that challenge me to explore new skills and technologies.
 
 ## 🏀 Fun Facts
