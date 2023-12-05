@@ -31,11 +31,10 @@ I'm Tom Raes, someone who is deeply passionate about data analysis and BI soluti
 - Udemy Microsoft Power BI Course (2023): Instructor in an in-house Power BI training program.
 - Currently working on "learning by doing" by creating a Github data portfolio with projects that challenge me to explore new skills and technologies.
 
-## 🌐 Contact
-LinkedIn: [Tom Raes](https://www.linkedin.com/in/tom-raes-416946165/)https://www.linkedin.com/in/tom-raes-416946165/
-
 ## 🏀 Fun Facts
  - A passionate basketball player for 20+ years, with 10+ years of coaching.
  - Loves to play challenging and/or story based video games.
  - A music-lover, piano player and passionate festivalgoer.
  
+## 🌐 Contact
+LinkedIn: [Tom Raes](https://www.linkedin.com/in/tom-raes-416946165/)https://www.linkedin.com/in/tom-raes-416946165
