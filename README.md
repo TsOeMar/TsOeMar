@@ -1,18 +1,31 @@
-# Hello there! 👋 
-I'm Tom Raes, an IT Manager and Data Analyst with a passion for data and technology.
+Hello there, I'm Tom Raes and welcome on my page.
 
-# What I'm up to
-- 💼 Currently spearheading the digital transformation at Barbas Bellfires, leveraging new tech to elevate the company to new heights.
-- 🌱 A firm believer in continuous learning by doing, I'm exploring and implementing new technologies in real-world projects.
-- 🌱 Building my data analyst portfolio right here on this platform; learning by doing.
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/tom-raes-416946165/). 
+## Skills
+- Excel
+- SQL Server
+- Power BI
+- Python
 
-# Fun Facts
-- 🏀 A dedicated basketball player for over 20 years.
-- 🎵 An avid music explorer who enjoys various genres and attends festivals.
-- 🎮 Unwinding through gaming is my go-to relaxation method.
-- 🎹 Passionate about playing the piano.
-- 📚 "The Goal" by Eliyahu M. Goldratt holds a special place as my favorite book.
+## Professional Focus
+Passionate about data analysis and Business Intelligence, I currently drive digital transformation, system migrations, and process optimization through automation at Barbas.
 
-## Thanks for stopping by! 🚀
-Feel free to explore my projects and repositories. If you find something interesting or have any suggestions, let's connect and chat about it! 🌟
+## Professional Projects
+- ERP Management: Maintain and manage the ERP system and associated databases in MSSQL.
+- Power BI Implementation: Implement Power BI for structured reporting and manage data cubes.
+- ITSM Environment: Established an IT Service Management (ITSM) environment using Atlassian.
+- Process Automation: Integrated production machines with the ERP system for optimized processes.
+- Cloud Migration: Developed a strategic roadmap for migrating to the cloud for various systems.
+
+## Education
+- NCOI Industrial Engineering & Management (2018): Focus on process analysis and efficiency.
+- DataCamp Data Analyst/Scientist Course (2021/2022): Expanded expertise in data analysis and science (Python/SQL).
+- Udemy - Microsoft Power BI Course (2023): Instructor in an in-house Power BI training program.
+
+## Methodologies
+Familiar with Lean and QRM through over 10 years of experience at Barbas. While I understand the theories of scrum and agile, I lack practical experience.
+
+## Interests and Future Goals
+Strong interest in AI for its potential to automate tasks. Currently exploring the depths and possibilities of this technology.
+
+## Contact
+LinkedIn: [Tom Raes](https://www.linkedin.com/in/tom-raes-416946165/)https://www.linkedin.com/in/tom-raes-416946165/
