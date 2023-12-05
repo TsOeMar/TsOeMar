@@ -12,7 +12,7 @@ I'm Tom Raes, someone who is deeply passionate about data analysis and BI soluti
 ## 🔧 Skills/Tools
 - Excel - Advanced Formulas, Pivot tables, Macros
 - SQL Server - Stored Procs, Functions, Views, CTE, Windowed Functions, Subqueres
-- Power BI - DAX, Q, Creating Data Cubes
+- Power BI - DAX,Power Query , Creating Data Cubes
 - Python - Numpy, Pandas, Searborn, MatPlotLib
 - Jupyter Notebook
 - Exploratory Data Analysis (EDA's)
