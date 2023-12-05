@@ -1,4 +1,4 @@
-# 👋 Welcome
+# Welcome
 I'm Tom Raes, someone who is deeply passionate about data analysis and BI solutions. In my current role at Barbas, I lead initiatives in process optimization/automation, digital transformation, system migrations. Alongside these responsibilities, I also play a key role in maintaining the availability and accuracy of all business information. This ensures a reliable foundation for the data-driven decisions made within the organization.
 
 #  🙋‍♂️ Who am I:
