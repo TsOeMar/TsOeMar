@@ -7,7 +7,7 @@ I'm Tom Raes, someone who is deeply passionate about data analysis and BI soluti
 - Data Driven - I developed an aversion to assumptions.
 - Structured - Sheets, bulletpoints and (flow)charts are my go-to's.
 - Works well under pressure - Keep calm and keep working on those diamonds.
-- Organize, Optimize, Automize(?) - Why do something yourself if you can automate it?
+- Organize, Optimize, Automize - Why do something yourself if you can automate it?
 
 ## 🔧 Skills/Tools
 - Excel - Advanced Formulas, Pivot tables, Macros
