@@ -37,4 +37,4 @@ I'm Tom Raes, someone who is deeply passionate about data analysis and BI soluti
  - A music-lover, piano player and passionate festivalgoer.
  
 ## 🌐 Contact
-LinkedIn: [Tom Raes](https://www.linkedin.com/in/tom-raes-416946165/)https://www.linkedin.com/in/tom-raes-416946165
+LinkedIn: [Tom Raes](https://www.linkedin.com/in/TsOeMar)
